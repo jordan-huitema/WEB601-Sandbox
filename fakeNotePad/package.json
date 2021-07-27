@@ -1,0 +1,11 @@
+{
+  "name": "fakenotepad",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "scripts": {
+    "start": "node ./src/app.js"
+  }
+}
