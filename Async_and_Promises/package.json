@@ -1,0 +1,16 @@
+{
+  "name": "async_and_promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "nodejs": "0.0.0",
+    "perf_hooks": "0.0.1"
+  }
+}
